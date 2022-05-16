@@ -26,6 +26,6 @@ plt.show()
 ```
 on obtient: 
 
-![Alt text](~/Desktop/chall_1/img1.png "Title")
+![Alt text](img1.png)
 
-on retrouve flag se trouve au milieu de cette image
+et on aperçoit bien le flag au milieu de cette image
