@@ -1,4 +1,4 @@
-# Challenge "Quantization, Space & Discreet (1/3)"
+# Challenge "Quantization, Space & Discreet (2/3)"
 
 ## Description
 
